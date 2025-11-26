@@ -1,0 +1,1 @@
+This repository contains the online supplementary material for the paper **"LLM Meets the Sky: Heuristic Multi-Agent Reinforcement Learning for Secure Heterogeneous UAV Networks"**. It provides detailed mathematical derivations for the SCA-based trajectory optimization benchmark used in the comparative experiments.
